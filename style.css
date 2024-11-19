@@ -1,0 +1,83 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: rgba(2, 19, 19, 0.683);
+    background-image: url(images/931283-restaurant-j-adore-restaurant-gastronomique-romantique-et-festif-dans-un-hotel-au-coeur-des-batignolles-image00004.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header{
+    
+    height: 118px;
+    width:1024px;
+    text-align: center;
+
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+nav{
+    background-color: rgba(5, 4, 4, 0.335);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    
+}
+main{
+    
+    height: 400px; 
+    width: 1024;
+    text-align: center;
+    padding-top: 8px;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+   
+}
+
+footer{
+    background-color: rgba(6, 4, 8, 0.614);
+    width: 1024px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.container{
+    margin-left:auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+
+}
